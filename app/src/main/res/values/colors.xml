@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#0E0F13</color>
+    <color name="superficie">#17181E</color>
+    <color name="superficie_alta">#202128</color>
+    <color name="borde">#2A2B33</color>
+    <color name="texto_primario">#F2F3F7</color>
+    <color name="texto_secundario">#9EA0AD</color>
+    <color name="acento">#FFB86B</color>
+    <color name="acento_alt">#8AB4FF</color>
+    <color name="acento_tenue">#26FFB86B</color>
+    <color name="verde_ok">#6FD08C</color>
+    <color name="negro_translucido">#000000</color>
+    <color name="transparente">#00000000</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+</resources>

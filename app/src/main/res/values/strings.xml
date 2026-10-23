@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="app_subtitulo">Programación Android · Actividad 2.4</string>
+
+    <string name="seccion_imagen">Imagen</string>
+    <string name="etiqueta_imagen">res/drawable · ImageView</string>
+    <string name="descripcion_imagen">Imagen de ejemplo mostrada con ImageView</string>
+    <string name="boton_animar">Animar</string>
+
+    <string name="seccion_audio">Música</string>
+    <string name="pista_titulo">Sueño Fugaz</string>
+    <string name="pista_artista">Fleeting Dream · PARIS The Prince</string>
+    <string name="etiqueta_audio">RES/RAW · MEDIAPLAYER</string>
+    <string name="tiempo_inicial">0:00</string>
+    <string name="accion_reproducir_audio">Reproducir música</string>
+    <string name="accion_pausar_audio">Pausar música</string>
+
+    <string name="seccion_video">Video</string>
+    <string name="etiqueta_video">res/raw · VideoView</string>
+    <string name="duracion_video">0:32</string>
+    <string name="accion_reproducir_video">Reproducir video</string>
+    <string name="accion_reiniciar_video">Reiniciar</string>
+    <string name="descripcion_poster">Miniatura del video</string>
+
+    <string name="seccion_permisos">Permisos</string>
+    <string name="titulo_permisos">Acceso a medios</string>
+    <string name="boton_permisos">Revisar permisos</string>
+    <string name="estado_permisos">%1$d de %2$d permisos concedidos</string>
+    <string name="resultado_permisos">Solicitud resuelta: %1$d de %2$d concedidos</string>
+
+
+    <string name="error_audio">No se pudo cargar el archivo de audio</string>
+    <string name="error_video">No se pudo reproducir el video</string>
+    <string name="avatar_musica">Portada de la pista</string>
+</resources>
